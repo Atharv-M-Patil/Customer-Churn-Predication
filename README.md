@@ -89,7 +89,7 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 ## 🧪 Model Evaluation
 
 ### **Confusion Matrix**
-![Confusion Matrix](confusion_matrix.png)  
+![Confusion Matrix](https://github.com/Atharv-M-Patil/Customer-Churn-Predication/blob/main/confusion%20matrix.png)  
 *(Replace path with your actual image location)*
 
 ### **Classification Metrics**
