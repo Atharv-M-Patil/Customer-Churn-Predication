@@ -137,7 +137,7 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 <a name="confusion-matrix"></a>
 
 ### **Confusion Matrix**
-![Confusion Matrix](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/confusion_matrix.png)  
+![Confusion Matrix](https://github.com/Atharv-M-Patil/Customer-Churn-Predication/blob/main/confusion%20matrix.png)  
 
 
 
