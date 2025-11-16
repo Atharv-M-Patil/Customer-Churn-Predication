@@ -107,7 +107,7 @@ Key columns:
 
 
 ### **Customer Churn Distribution**
-![Customer Churn Visualization](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/customer_churn_prediction.png)  
+![Customer Churn Visualization](https://github.com/Atharv-M-Patil/Customer-Churn-Predication/blob/main/customer%20churn%20prediction.png)  
 
 
 
