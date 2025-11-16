@@ -156,12 +156,6 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 **Macro Avg F1-Score:** 0.72  
 **Weighted Avg F1-Score:** 0.78  
 
-<a name="model-performance-chart"></a>
-
-### **Model Performance Chart**
-![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
-
-
 
 ---
 
@@ -173,6 +167,13 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 - The model predicts **non-churn customers (Class 0)** very accurately.  
 - Moderate performance for **churn customers (Class 1)** due to class imbalance.  
 - Accuracy of **78%** demonstrates reliable churn predictions.  
+
+<a name="model-performance-chart"></a>
+
+### **Model Performance Chart**
+![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
+
+
 
 **Business Impact:**  
 - Reduce customer loss  
