@@ -90,7 +90,6 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 
 ### **Confusion Matrix**
 ![Confusion Matrix](https://github.com/Atharv-M-Patil/Customer-Churn-Predication/blob/main/confusion%20matrix.png)  
-*(Replace path with your actual image location)*
 
 ### **Classification Metrics**
 
@@ -108,7 +107,8 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 ---
 
 ## 📈 Final Outcome
-
+### **Model Performance Chart**
+![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
 - The model predicts **non-churn customers (Class 0)** very accurately.  
 - Moderate performance for **churn customers (Class 1)** due to class imbalance.  
 - Accuracy of **78%** demonstrates reliable churn predictions.  
