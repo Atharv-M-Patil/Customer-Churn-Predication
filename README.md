@@ -22,6 +22,7 @@ The model is built using Python, Pandas, NumPy, Scikit-Learn, Seaborn/Matplotlib
 ---
 
 ## 🚀 Project Overview
+<a name="project-overview"></a>
 
 Customer churn prediction helps companies identify customers who are likely to stop using the service.  
 By predicting churn early, companies can take action to retain customers.
@@ -38,6 +39,7 @@ This project includes:
 ---
 
 ## 📁 Dataset
+<a name="dataset"></a>
 
 The dataset used is the **Telco Customer Churn** dataset, which contains customer demographics, account details, and service usage patterns.
 
@@ -57,6 +59,7 @@ Key columns:
 ---
 
 ## 🛠️ Tech Stack
+<a name="tech-stack"></a>
 
 - Python  
 - Pandas    
@@ -69,7 +72,7 @@ Key columns:
 ---
 
 ## 🔧 Data Processing Steps (Pipeline)
-
+<a name="data-processing-steps-pipeline"></a>
 1. Load dataset  
 2. Handle missing or incorrect values  
 3. Convert `"TotalCharges"` to numeric  
