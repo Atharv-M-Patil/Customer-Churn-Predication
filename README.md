@@ -14,9 +14,9 @@ The model is built using Python, Pandas, NumPy, Scikit-Learn, Seaborn/Matplotlib
 - [Visualization](#visualization)  
 - [Machine Learning Model](#machine-learning-model)  
 - [Model Evaluation](#model-evaluation)  
-  - [Confusion Matrix](#confusion-matrix)  
-  - [Model Performance Chart](#model-performance-chart)  
-- [Final Outcome](#final-outcome)  
+  - [Confusion Matrix](#confusion-matrix)   
+- [Final Outcome](#final-outcome)
+  - [Model Performance Chart](#model-performance-chart)    
 
 ---
 <a name="project-overview"></a>
