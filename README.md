@@ -19,9 +19,8 @@ The model is built using Python, Pandas, NumPy, Scikit-Learn, Seaborn/Matplotlib
 - [Final Outcome](#final-outcome)  
 
 ---
-
-## 🚀 Project Overview
 <a name="project-overview"></a>
+## 🚀 Project Overview
 
 Customer churn prediction helps companies identify customers who are likely to stop using the service.  
 By predicting churn early, companies can take action to retain customers.
