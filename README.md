@@ -141,11 +141,6 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 
 
 
-<a name="model-performance-chart"></a>
-
-### **Model Performance Chart**
-![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
-
 
 
 ### **Classification Metrics**
@@ -160,6 +155,11 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 **Overall Accuracy:** **0.78 (78%)**  
 **Macro Avg F1-Score:** 0.72  
 **Weighted Avg F1-Score:** 0.78  
+
+<a name="model-performance-chart"></a>
+
+### **Model Performance Chart**
+![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
 
 
 
