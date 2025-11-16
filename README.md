@@ -17,7 +17,6 @@ The model is built using Python, Pandas, NumPy, Scikit-Learn, Seaborn/Matplotlib
   - [Confusion Matrix](#confusion-matrix)  
   - [Model Performance Chart](#model-performance-chart)  
 - [Final Outcome](#final-outcome)  
-- [Contact](#contact)  
 
 ---
 
@@ -35,6 +34,9 @@ This project includes:
 - Machine learning and deep learning model training  
 - Evaluation using confusion matrix and metrics  
 - Final prediction
+
+
+
 
 ---
 
@@ -56,6 +58,10 @@ Key columns:
 - Monthly & total charges  
 - Churn (target variable)
 
+
+
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -68,6 +74,9 @@ Key columns:
 - Scikit-Learn  
 - TensorFlow / Keras  
 - Jupyter Notebook / VS Code  
+
+
+
 
 ---
 
@@ -84,6 +93,9 @@ Key columns:
 9. Model training  
 10. Model evaluation  
 
+
+
+
 ---
 
 ## 📉 Visualization
@@ -91,6 +103,8 @@ Key columns:
 ### **Customer Churn Distribution**
 <a name="visualization"></a>
 ![Customer Churn Visualization](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/customer_churn_prediction.png)  
+
+
 
 ---
 
@@ -105,6 +119,9 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 - 1 → Customer will churn  
 - 0 → Customer will not churn  
 
+
+
+
 ---
 
 ## 🧪 Model Evaluation
@@ -114,9 +131,13 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 <a name="confusion-matrix"></a>
 ![Confusion Matrix](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/confusion_matrix.png)  
 
+
+
 ### **Model Performance Chart**
 <a name="model-performance-chart"></a>
 ![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
+
+
 
 ### **Classification Metrics**
 
@@ -131,7 +152,11 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 **Macro Avg F1-Score:** 0.72  
 **Weighted Avg F1-Score:** 0.78  
 
+
+
 ---
+
+
 
 ## 📈 Final Outcome
 <a name="final-outcome"></a>
