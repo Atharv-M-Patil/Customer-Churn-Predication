@@ -70,8 +70,7 @@ Key columns:
 ## 📉 Visualization
 
 ### **Customer Churn Distribution**
-![Customer Churn Visualization](customer churn prediction.png)  
-*(users/atharvpatil/Downloads/customer\ churn\ prediction.png )*
+![Customer Churn Visualization](./images/customer_churn_prediction.png)  
 
 ---
 
