@@ -38,9 +38,10 @@ This project includes:
 
 
 ---
-
-## 📁 Dataset
 <a name="dataset"></a>
+ 
+## 📁 Dataset
+
 
 The dataset used is the **Telco Customer Churn** dataset, which contains customer demographics, account details, and service usage patterns.
 
@@ -62,9 +63,10 @@ Key columns:
 
 
 ---
+<a name="tech-stack"></a>
 
 ## 🛠️ Tech Stack
-<a name="tech-stack"></a>
+
 
 - Python  
 - Pandas    
@@ -78,9 +80,11 @@ Key columns:
 
 
 ---
+<a name="data-processing-steps-pipeline"></a>
+
 
 ## 🔧 Data Processing Steps (Pipeline)
-<a name="data-processing-steps-pipeline"></a>
+
 1. Load dataset  
 2. Handle missing or incorrect values  
 3. Convert `"TotalCharges"` to numeric  
@@ -96,19 +100,23 @@ Key columns:
 
 
 ---
+<a name="visualization"></a>
+
 
 ## 📉 Visualization
 
+
 ### **Customer Churn Distribution**
-<a name="visualization"></a>
 ![Customer Churn Visualization](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/customer_churn_prediction.png)  
 
 
 
 ---
 
-## 🧠 Machine Learning Model
 <a name="machine-learning-model"></a>
+
+
+## 🧠 Machine Learning Model
 
 The final model was built using **TensorFlow/Keras (Artificial Neural Network)**.  
 - Dataset was split into train and test sets.  
@@ -122,18 +130,20 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 
 
 ---
-
-## 🧪 Model Evaluation
 <a name="model-evaluation"></a>
 
-### **Confusion Matrix**
+## 🧪 Model Evaluation
+
 <a name="confusion-matrix"></a>
+
+### **Confusion Matrix**
 ![Confusion Matrix](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/confusion_matrix.png)  
 
 
 
-### **Model Performance Chart**
 <a name="model-performance-chart"></a>
+
+### **Model Performance Chart**
 ![Model Performance](https://raw.githubusercontent.com/Atharv-M-Patil/Customer-Churn-Predication/main/model_performance.png)
 
 
@@ -155,10 +165,10 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 
 ---
 
+<a name="final-outcome"></a>
 
 
 ## 📈 Final Outcome
-<a name="final-outcome"></a>
 
 - The model predicts **non-churn customers (Class 0)** very accurately.  
 - Moderate performance for **churn customers (Class 1)** due to class imbalance.  
@@ -171,9 +181,4 @@ The final model was built using **TensorFlow/Keras (Artificial Neural Network)**
 
 ---
 
-## 📬 Contact
-<a name="contact"></a>
-
-If you have any questions or want to collaborate, feel free to reach out!  
-[Your Name] - [GitHub Profile](https://github.com/YourUsername)
 
